@@ -54,4 +54,4 @@ It demonstrates core React concepts through interactive examples, where each con
 <img width="671" height="272" alt="Screenshot 2025-11-29 192545" src="https://github.com/user-attachments/assets/e2d33341-bbb8-4b13-b5f2-e1a5c0595574" />
 
 
-If you want, I can also prepare a **full GitHub README.md file** with headings, screenshots section, setup instructions, and code samples.
+
